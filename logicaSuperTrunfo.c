@@ -8,7 +8,7 @@ int main() {
     float Area;
     float PIB;
     int PontosTuristicos;
-    float densepop = Populacao / Area;
+    
 
     char Estado_B = 'B';
     char Codigo_B[20] = "B02";
@@ -17,7 +17,7 @@ int main() {
     float Area_B;
     float PIB_B;
     int PontosTuristicos_B;
-    float denspop_B = Populacao_B / Area_B;
+    
 
     printf("Sua cidade é: %s\n", Cidade);
 
